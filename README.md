@@ -18,8 +18,9 @@ This repository contains notebooks and resources for a comprehensive time series
 ### 1. [1-Rosseman-General-EDA-and-Analysis.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/1-Rosseman-General-EDA-and-Analysis.ipynb)
 This notebook contains the general exploratory data analysis (EDA) for the dataset. It includes:
 - Data loading and cleaning
+- EDA and Analysis 
 - Visualization of trends, seasonality, and outliers
-- Summary statistics and initial insights
+
 
 ### 2. [2-Exponential-Smoothing-models.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/2-Exponential-Smoothing-models.ipynb)
 This notebook covers the implementation of exponential smoothing models, including:
