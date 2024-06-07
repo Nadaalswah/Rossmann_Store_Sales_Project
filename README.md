@@ -5,7 +5,7 @@ This repository contains notebooks and resources for a comprehensive time series
 ## Table of Contents
 - Notebooks folder
 - Submission file
-- Results
+- Results.pdf
 
 ## Notebooks
 
@@ -49,4 +49,5 @@ This notebook applies various machine learning models to the time series data, i
 - Preparation of submission file
 
 ## Result 
+it contains a summary of all models RMSPE results.
 
