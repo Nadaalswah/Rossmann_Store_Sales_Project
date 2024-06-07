@@ -5,6 +5,7 @@ This repository contains notebooks and resources for a comprehensive time series
 ## Table of Contents
 - Notebooks folder
 - Submission file
+- Results
 
 ## Notebooks
 
@@ -46,4 +47,6 @@ This notebook applies various machine learning models to the time series data, i
 ### 7. [7-Final-training-and-submission.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/7-Final-training-and-submission.ipynb)
 - Final model selection and tuning (CatBooost Model)
 - Preparation of submission file
+
+## Result 
 
