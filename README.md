@@ -48,6 +48,6 @@ This notebook applies various machine learning models to the time series data, i
 - Final model selection and tuning (CatBooost Model)
 - Preparation of submission file
 
-## Result 
+## Results.pdf
 it contains a summary of all models RMSPE results.
 
