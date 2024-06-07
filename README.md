@@ -4,13 +4,13 @@ This repository contains notebooks and resources for a comprehensive time series
 
 ## Table of Contents
 
-1. [1-Rosseman-General-EDA-and-Analysis.ipynb](#1-rosseman-general-eda-and-analysisipynb)
-2. [2-Exponential-Smoothing-models.ipynb](#2-exponential-smoothing-modelsipynb)
-3. [3-ETS-model.ipynb](#3-ets-modelipynb)
-4. [4-Arima-Sarima-Auto-Arima.ipynb](#4-arima-sarima-auto-arimaipynb)
-5. [5-Prophet-model.ipynb](#5-prophet-modelipynb)
-6. [6-Machine-learning-models.ipynb](#6-machine-learning-modelsipynb)
-7. [7-Final-training-and-submission.ipynb](#7-final-training-and-submissionipynb)
+1. [1-Rosseman-General-EDA-and-Analysis.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/1-Rosseman-General-EDA-and-Analysis.ipynb)
+2. [2-Exponential-Smoothing-models.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/2-Exponential-Smoothing-models.ipynb)
+3. [3-ETS-model.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/3-ETS-model.ipynb)
+4. [4-Arima-Sarima-Auto-Arima.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/4-Arima-Sarima-Auto-Arima.ipynb)
+5. [5-Prophet-model.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/5-Prophet-model.ipynb)
+6. [6-Machine-learning-models.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/6-Machine-learning-models.ipynb)
+7. [7-Final-training-and-submission.ipynb](https://github.com/Nadaalswah/Rossmann_Store_Sales_Project/blob/main/Notebooks/7-Final-training-and-submission.ipynb)
 
 
 ## Notebooks
